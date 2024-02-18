@@ -1,0 +1,5 @@
+{
+    "inputUri": "gs://",
+    "outputUri": "gs://",
+    "templateId": "two-streams-thirty"
+}
